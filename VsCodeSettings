@@ -1,0 +1,18 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "left",
+    "window.zoomLevel": 0,
+    "vsicons.dontShowNewVersionMessage": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.minimap.enabled": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#1A1A1A",
+        "activityBar.background" : "#1A1A1A",
+        "titleBar.background" : "#1A1A1A",
+
+    },
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "workbench.settings.editor": "json",
+    "terminal.integrated.inheritEnv": true
+
+}
